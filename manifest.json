@@ -1,0 +1,9 @@
+{
+  "name": "InsanityMeter",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/MegaPiggy/LethalCompanyInsanityMeter",
+  "description": "Adds a violet colored insanity bar right above the clock.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
