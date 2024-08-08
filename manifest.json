@@ -2,7 +2,7 @@
   "name": "InsanityMeter",
   "version_number": "1.0.0",
   "website_url": "https://github.com/MegaPiggy/LethalCompanyInsanityMeter",
-  "description": "Adds a violet colored insanity bar right above the clock.",
+  "description": "Adds a violet colored bar to your HUD to monitor your insanity level.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100"
   ]
